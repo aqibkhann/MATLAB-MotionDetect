@@ -1,3 +1,7 @@
+% REQUIRES THE FOLLOWING ADD-ONS INSTALLED:
+% IMAGE ACQUISITION TOOLBOX, SUPPORT PACKAGE FOR OS GENERIC VIDEO
+% INTERFACE, MATLAB SUPPORT PACKAGE FOR USB WEBCAMS, IMAGE PROCESSING
+% TOOLBOX
 function varargout = motion(varargin)
 % motion M-file for motion.fig
 %      motion, by itself, creates a new motion or raises the existing
